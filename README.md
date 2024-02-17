@@ -1,6 +1,6 @@
 # Symphoni Social frontend coding interview challenge 2 - REST Countries API with color theme switcher solution
 
-This is a solution to the Multi-step form challenge of Symphoni Social.
+This is a solution to the REST Countries API with color theme switcher.
 
 _[⭐️ Live Site URL](https://symphoni-frontend-test-2.vercel.app/)_
 
