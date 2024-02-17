@@ -1,73 +1,92 @@
-# Symphoni Social - REST Countries API with color theme switcher
+# Symphoni Social frontend coding interview challenge 2 - REST Countries API with color theme switcher solution
 
-![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
+This is a solution to the Multi-step form challenge of Symphoni Social.
 
-## Welcome! 👋
+_[⭐️ Live Site URL](https://symphoni-frontend-test-2.vercel.app/)_
 
-Thanks for checking out this front-end coding challenge. This is the second challenge for Symphoni Social, aimed at evaluating the candidate's knowledge of APIs, data fetching methods, caching, revalidation, as well as high-order array methods. do clone this repo and follow instructions
+- [Symphoni Social frontend coding interview challenge 2 - REST Countries API with color theme switcher solution](#symphoni-social-frontend-coding-interview-challenge-2---rest-countries-api-with-color-theme-switcher-solution)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Quickstart](#quickstart)
+    - [Optional Gitpod](#optional-gitpod)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+- [Thank you!](#thank-you)
 
-**To do this challenge, you need a good understanding of React, Tailwind CSS, TypeScript, Zustand, Fetch, and Axios.**
+# Getting Started
 
-## The challenge
+## Requirements
 
-Your challenge is to integrate with the [REST Countries API](https://restcountries.com) to pull country data and display it as shown in the designs.
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
+- [node.js](https://nodejs.org/en)
+  - You'll know you did it right if you can run `node --version` and you see a response like `v16.19.1`
 
-You will use the JavaScript framework/library React with Next.js. Additionally, you'll use Axios and Fetch to make HTTP requests. We'd like to see how you use both approaches and your take on the best one for this project. Tailwind CSS should be used for styling.
+## Quickstart
 
-Your users should be able to:
+```
+git clone https://github.com/weshare237/symphoni_frontend_test_2
+cd symphoni_frontend_test_2/design
+npm install && npm run dev
+```
 
-- See all countries from the API on the homepage
+### Optional Gitpod
+
+If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/weshare237/symphoni_frontend_test_2)
+
+# Overview
+
+### The challenge
+
+Users can perform the following actions:
+
+- View all countries from the API on the homepage
 - Search for a country using an `input` field
 - Filter countries by region
 - Click on a country to see more detailed information on a separate page
-- Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode 
+- Navigate to the border countries on the detail page
+- Toggle the color scheme between light and dark mode _(optional)_
 
-For support on the challenge, contact your interviewer.
+### Links
 
-**⚠️ NOTE ⚠️: Sometimes the REST Countries API can go down. We've added a `data.json` file with all the country data if you prefer to use that instead. However, please be aware that the data in the JSON file might not be up-to-date.**
+- Live Site URL: [My Live Site URL](https://symphoni-frontend-test-2.vercel.app/)
 
-## Where to find everything
+## My process
 
-Your task is to build out the project to the designs inside the `/design` folder. 
+### Built with
 
-In this challenge, you will find mobile and desktop designs in light and dark mode color schemes for both pages.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- React - JS library
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding`, and `margin`. 
+### What I learned
 
-There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.com), and you can use an icon font library for the icons.
+I learned how to effectively structure my files and manage state in React using the Context API.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### Continued development
 
-## Building your project
+I plan to continue refining my skills in React and exploring more advanced data fetching techniques.
 
-Feel free to use any workflow that you feel comfortable with.
+### Useful resources
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/).
-2. Configure your repository to publish your code to a web address.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - A comprehensive resource for web development information.
+- [React documentation](https://reactjs.org/docs/getting-started.html) - Official documentation for React.
+- [Zustand GitHub repository](https://github.com/pmndrs/zustand) - Documentation and examples for Zustand state management library.
 
-## Deploying your project
+# Thank you!
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+If you appreciated this, feel free to follow me or donate!
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the recruiters to see. If you're looking for feedback, be sure to ask specific and detailed questions when submitting it.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our recruitment process. So if you have anything you'd like to mention, please email jobs@symphonisocial.com or contact 677606169.
-
-**Have fun building!** 🚀
+[![ITutorix-CS YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itutorix)
+[![Duclair FOPA KUETE Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duclair-fopa/)
